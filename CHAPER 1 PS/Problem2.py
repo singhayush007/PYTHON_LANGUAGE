@@ -1,0 +1,1 @@
+# Q-2 Use Repl and print the table of 5 using it.
